@@ -19,7 +19,7 @@ Atualmente, estou cursando graduação em **Inteligência Artificial Generativa*
 Sou piscicultor amador e amante da natureza.
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joao--oliveira--lisboa-blue?style=flat&logo=linkedin)](https://linkedin.com/in/joão-oliveira-lisboa-535b0616a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joao--oliveira--lisboa-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jbliisboa)
   
 ✉️ Email: [jbliisboa@gmail.com](mailto:jbliisboa@gmail.com)
 
