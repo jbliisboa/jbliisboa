@@ -1,7 +1,5 @@
 # Olá, eu sou João Lisboa! 👋
 
-<img align="right" width="180" src="URL_DA_IMAGEM_AQUI" alt="João Lisboa em ambiente aconchegante">
-
 ## 👨‍💻 Sobre mim
 Sou **Analista de Sistemas Sênior** com paixão por tecnologia e resolução de problemas. Trabalho principalmente como desenvolvedor mobile nativo, especialista em **Swift** e **SwiftUI**.
 
